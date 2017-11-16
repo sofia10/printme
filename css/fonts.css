@@ -1,0 +1,59 @@
+@font-face {
+	font-family: 'PantonMtav3';
+	src: url('../fonts/PantonMtav3-Regular.eot');
+	src: url('../fonts/PantonMtav3-Regular.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/PantonMtav3-Regular.woff') format('woff'),
+		url('../fonts/PantonMtav3-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'PantonMtav3-Bold';
+	src: url('../fonts/PantonMtav3-Bold.eot');
+	src: url('../fonts/PantonMtav3-Bold.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/PantonMtav3-Bold.woff') format('woff'),
+		url('../fonts/PantonMtav3-Bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'PantonMtav3-ExtraBold';
+	src: url('../fonts/PantonMtav3-ExtraBold.eot');
+	src: url('../fonts/PantonMtav3-ExtraBold.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/PantonMtav3-ExtraBold.woff') format('woff'),
+		url('../fonts/PantonMtav3-ExtraBold.ttf') format('truetype');
+	font-weight: 800;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'PantonNusx3';
+	src: url('../fonts/PantonNusx3-Bold.eot');
+	src: url('../fonts/PantonNusx3-Bold.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/PantonNusx3-Bold.woff') format('woff'),
+		url('../fonts/PantonNusx3-Bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'BPG Phone Sans';
+	src: url('BPGPhoneSans-Bold.eot');
+	src: url('BPGPhoneSans-Bold.eot?#iefix') format('embedded-opentype'),
+		url('BPGPhoneSans-Bold.woff') format('woff'),
+		url('BPGPhoneSans-Bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'BPG Nino Mtavruli';
+	src: url('BPGNinoMtavruli-Bold.eot');
+	src: url('BPGNinoMtavruli-Bold.eot?#iefix') format('embedded-opentype'),
+		url('BPGNinoMtavruli-Bold.woff') format('woff'),
+		url('BPGNinoMtavruli-Bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: italic;
+}

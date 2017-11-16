@@ -1,0 +1,22 @@
+div.user > span{
+	font-family: 'PantonMtav3';
+}
+
+div.content > a > p, div.faq > h2, ul.questions li input[type=checkbox] + h2, ul.questions li p, div.register h2,div.register a,div.upload > h2,div.upload > h3, .buttons a, .paata a, .orderhist h2,.ordmenu span, div.radiostyle input[type=radio] + label, .service h3, .photossize h6, body > div > div.rights.uploadright > div > div.uptitle > h2, .profile h2, .change button, div.fixedcontent > a > p{
+	font-family: 'PantonMtav3-Bold';
+}
+
+div.user > h3, div.dropdown div.menu ul li a, div.dropdown div.social > h4, div.innerupload h4, div.content > ul li a, div.content > ul li.upload p, div.innerupload h5, .infoorder h2, a.pay, .uploadicons h2 a, .profbuttons button{
+	font-family: 'PantonMtav3-ExtraBold';
+}
+.logregister form input, .infoorder h6, body > div > div.rights > div.orderhist > label, .kurieri .inputs, div.novaposhta > label,.service h5, .photosfasi h6, .editprof ul li label, .change h6{
+	font-family: 'PantonNusx3';
+}
+ul.orderlist li span, select#magazia,
+select#speed,
+div.novaposhta label select, .kurieri #name, select#city, .kurieri #location, .kurieri #mobile,.motanisfasi p, div.photo > div.zoma span, div.photo > div.raodenoba input{
+	font-family: 'BPG Phone Sans';
+}
+a.back, a.next{
+	font-family: 'BPG Nino Mtavruli';
+}

@@ -1,0 +1,872 @@
+@media (max-width: 1440px){
+	.uploadright{
+		left: 40%!important;
+	}
+	div.rights {
+    	width: calc(100% - 570px);
+    	height: 100vh;
+	}
+	.photocontainer{
+		padding: 0;
+	}
+	.lastorder{
+		margin-top: 25%;
+		margin-left: 30px;
+	}
+	.uploadright{
+		width: calc(100% - 590px);
+	}
+}
+@media (max-width: 1280px){
+	body > div > div.left.nonehist > div.leftbg.ord{
+    	left: 47%!important;
+	}
+	div.rights {
+    	width: calc(100% - 500px);
+	}
+	.scroll{
+		margin-left: 30px;
+	}
+	div.rights.personal {
+    	width: calc(100% - 550px);
+	}
+	.editprof ul li{
+		margin-top: 15px;
+	}
+}
+@media (max-width: 1024px){
+	div.novaposhta{
+		margin-top: 30px;
+	}
+	.motanisfasi p{
+		font-size: 10px;
+	}
+	.orderhist.lastorder{
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		margin-top: 0;
+	}
+	body > div > div.left.index{
+		width: 240px;
+	}
+	body > div > div.left.index > div.content > ul{
+		right: -10px;
+	}
+	body > div > div.left.index > div.leftbg{
+		left: 61%;
+	}
+	body > div > div.left.index > a > img{
+		width: 230px;
+	}
+	body > div > div.left.index > a{
+		margin: 10px;
+	}
+	body > div > div.rights.index{
+		width: calc(100% - 410px);
+	}
+	body > div > div.rights.index > div.swiper-container.swiper-container-vertical > div.swiper-pagination.swiper-pagination-clickable.swiper-pagination-bullets{
+		right: 10px!important;
+	}
+	.orderhist{
+		/*margin-top: 100%;*/
+	}
+	.uploadord{
+		margin-top: 130px;
+	}
+	.uptitle{
+		flex-direction: column;
+	}
+	.photossize{
+		justify-content: flex-start;
+		margin-top: 20px;
+	}
+	.uploadright {
+    	left: 50%!important;
+	}
+	.uploadicons{
+		margin-top: 20px;
+	}/*
+	.photocontainer{
+		justify-content: center;
+	}*/
+	.kurieri{
+		flex-direction: column;
+	}
+	.uploadord{
+		margin-top: 0;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+	}
+	.scrollhist{
+    	display: flex;
+    	flex-direction: column;
+    	justify-content: center;
+    	margin-top: 0;
+	}
+}
+@media (max-width: 768px){
+	div.section{
+		height: 100vh;
+		width: 100%;
+		align-items: center;
+	}
+	div.section > div{
+		width: 90%;
+	}
+	div.section > div.register{
+		width: auto;
+	}
+	div.content > ul{
+		right: -26%;
+		top: 25%;
+	}
+	div.leftbg > ul > li:nth-child(1){
+		margin-right: 40px;
+	}
+	div.leftbg > ul > li:nth-child(2){
+		margin-left: 35px;
+	}
+	div.leftbg > ul > li:nth-child(3){
+		margin-left: 60px;
+	}
+	div.leftbg > ul > li:nth-child(4){
+		margin-left: 35px;
+	}
+	div.leftbg > ul > li:nth-child(5){
+		margin-right: 35px;
+	}
+	.noneslider {
+    	visibility: visible;
+	}
+	.uptitle{
+		padding-left: 20px;
+	}
+	body > div > div.rights.history > div.orderhist.scrollhist{
+		margin-top: 130px!important;
+		padding: 0 10px;
+	}
+	body > div > div.rights.history > div.orderhist.scrollhist > div{
+		margin-left: 0;
+	}
+	.uploadord{
+		margin-left: 20px;
+	}
+	div.content{
+		width: 100%;
+	}
+	.infoorder{
+		margin-top: 100px;
+		margin-bottom: 50px;
+		right: 0;	
+		margin-left: 20px;
+	}
+	div.rights{
+		width: 100%;
+		height: auto;
+	}
+	.orderhist{
+		margin-top: 40px!important;
+		margin-bottom: 40px;
+	}
+	.editprof ul li input, .editprof ul li select{
+		width: 600px;
+	}
+	.profile{
+		padding-right: 0;
+	}
+	div.rights.personal{
+		width: 100%;
+	}
+	div.leftbg.ord{
+		display: none;
+	}
+	div.wrapper div.left{
+		position: relative!important;
+	}
+	div.wrapper{
+		flex-direction: column;
+	}
+	body > div > div.left.nonehist > div.content{
+		display: none;
+	}
+	div.rights.history{
+		width: 100%;
+	}
+	body > div.wrapper > div.rights.uploadright{
+		width: 100%!important;
+		left: initial!important;
+	}
+	.editprof ul{
+		justify-content: center;
+	}
+	.editprof ul li{
+		margin-right: 0;
+	}
+	.profile h2{
+		text-align: center;
+	}
+	.profimg{
+		justify-content: center;
+	}
+	.profbuttons{
+		justify-content: center;
+	}
+	.indexwr{
+		flex-direction: column;
+	}
+	body > div > div.left.index{
+		display: none;
+	}
+	body > div > div.left.index, body > div > div.rights.index{
+		width: 100%;
+	}
+	body > div > div.left.index > div.content{
+		width: 100%;
+	}
+	body > div > div.left.index > div.content > ul{
+		left: 26%;
+	}
+	body > div > div.left.index > div.leftbg{
+		transform: rotate(90deg);
+    	position: absolute;
+    	left: initial;
+    	width: 100%;
+	}
+	body > div > div.left.index > div.content > ul{
+		justify-content: flex-end;
+	}
+	div.content > ul li:after{
+		transform: rotate(90deg);
+	}
+	div.leftbg > ul{
+		left: 50%;
+	}
+	div.content > ul li{
+		width: 370px;
+		height: 370px;
+	}
+	div.content > ul li a{
+		left: 100px;
+	}
+	div.content > ul li.fb:after{
+		right: -27px;
+    	top: 300px;
+	}
+	div.content > ul li.dropbox:after{
+		right: 60px;
+    	top: 360px;
+	}
+	div.content > ul li.upload:after{
+		right: 149px;
+    	bottom: -40px;
+	}
+	div.content > ul li.drive:after{
+		left: 60px;
+    	bottom: -37px;
+	}
+	div.content > ul li.insta:after{
+		left: -30px;
+    	bottom: -30px;
+	}
+	div.leftbg > ul li a{
+		transform: rotate(-90deg);
+	}
+	.orderhist h2{
+		font-size: 23px;
+	}
+	div.left > a {
+    	margin: 35px 10px;
+	}
+	div.wrapper div.left{
+		width: 280px;
+	}
+	.ord {
+    	left: 35%!important;
+	}
+	.uploadright{
+		width: 50%!important;
+	}
+	.photo{
+		margin-right: 15px;
+	}
+	.photocontainer{
+		margin-left: 20px;
+	}
+	.lastorder{
+		margin-left: 20px;
+	}
+	.scroll{
+		margin-left: 10px;
+		width: calc(100% - 0px);
+	}
+	div.leftbg{
+		left: 52%;
+	}
+	div.wrapper div.left{
+		position: absolute;
+		top: 0;
+		width: 100%;
+		height: 7%;
+	}
+	body > div > div.rights.index > div.swiper-container.swiper-container-vertical > div.swiper-wrapper > div.swiper-slide.noneslider.swiper-slide-active > div{
+		height: 50vh;
+	}
+	div.leftbg{
+		width: 150px;
+    	height: 100vw;
+    	position: absolute;
+    	left: 0;
+    	top: 100%;
+    	transform: rotate(90deg);
+    	transform-origin: 50vw;
+	}
+	div.leftbg > ul{
+		left: 50px;
+	}
+
+	.fixedcontent{
+		position: fixed;
+		top: 0;
+		left: 0;
+		z-index: 666;
+	}
+	body > div > div.rights.index > div.swiper-container.swiper-container-vertical > div.swiper-wrapper > div.swiper-slide.swiper-slide-active{
+		display: block;
+	}
+	.fixedcontent{
+		display: block;
+		height: 100vh;
+	}
+	div.fixedcontent > a > p{
+		position: absolute;
+	    bottom: 20px;
+	    margin-left: 20px;
+	    color: #344A5E;
+	    font-size: 12px;
+	}
+}
+@media (max-width: 600px){
+	div.content > ul{
+		right: -20%;
+	}
+	body > div > div.rights.index > div.fixedcontent > a:nth-child(2){
+		position: absolute;
+    	margin-top: 10px;
+	}
+	body > div.wrapper > div.rights.uploadright > div > div.photocontainer{
+		margin: initial;
+		padding: initial;
+		justify-content: center;
+	}
+	body > div.wrapper > div.rights.uploadright > div{
+		padding: 0;
+	}
+	body > div > div.left.index > div.content > ul{
+		left: 20%;
+	}
+	.editprof ul li input, .editprof ul li select{
+		width: 520px;
+	}
+	div.upload > h2{
+		font-size: 20px;
+	}
+	body > div > a > img{
+		width: 150px;
+	}
+	.ord {
+    	left: 17%!important;
+	}
+	.infoorder{
+		right: -30px;
+	}
+	.orderhist h2 {
+    	font-size: 21px;
+	}
+	body > div > div.left > a > img{
+		width: 200px;
+	}
+	.uploadicons{
+		width: 290px;
+	}
+	.history{
+		width: 100%!important;
+	}
+}
+@media (max-width: 414px){
+	body > div > div.rights.index div.leftbg{
+		top: 76%;
+	}
+	body > div > div.rights.index div.leftbg ul{
+		justify-content: center;
+	}
+	body > div > div.rights.index > div.swiper-container.swiper-container-vertical > div.swiper-wrapper > div.swiper-slide.noneslider.swiper-slide-active > div {
+    	height: 70vh;
+	}
+	div.content > ul{
+		top: 5%;
+		right: -13%;
+	}
+	div.leftbg > ul li{
+		margin-top: 12px;
+	}
+	div.leftbg > ul > li:nth-child(1) {
+    	margin-right: 0px;
+    	margin-top: -10px;
+	}
+	div.leftbg > ul > li:nth-child(5) {
+    	margin-right: 5px;
+	}
+	div.content > ul li.upload:after {
+	    right: 110px;
+	    bottom: -38px;
+	}
+	div.uploadsist{
+		flex-direction: column;
+		margin: 5px 0px 20px 0px;
+	}
+	.uploadimage{
+		width: initial;
+		height: initial;
+	}
+	.uploadimage > img {
+	    display: block;
+	    width: 100px;
+	    height: 70px;
+	}
+	div.innerupload h4{
+		margin-top: 8px;
+	}
+	div.innerupload {
+	    width: 100%;
+	    text-align: center;
+	    align-items: center;
+	    align-self: center;
+	    justify-content: center;
+	    display: flex;
+	    flex-direction: column;
+	    margin: 10px;
+	}
+	.photo{
+		margin-right: 0;
+	}
+	body > div.wrapper > div.rights.uploadright > div{
+		padding-right: 0;
+	}
+	body > div > div.rights.history > div.orderhist.scrollhist{
+		margin-top: 0!important;
+	}
+	select#magazia{
+		width: 330px;
+	}
+	div.novaposhta{
+		flex-direction: column;
+		margin-left: 33px;
+	}
+	div.novaposhta > label{
+		margin-left: 0;
+	}
+	.motanisfasi{
+		margin-top: 0;
+	}
+	.profbuttons{
+		width: 100%;
+		justify-content: space-around;
+		margin-bottom: 20px;
+	}
+	.profbuttons button{
+		margin-right: 0;
+	}
+	.profile{
+		margin-top: 80px;
+	}
+	.editprof ul li input, .editprof ul li select{
+		width: 380px;
+	}
+	div.content > ul li{
+		width: 300px;
+		height: 300px;
+	}
+	body > div > div.left.index > div.content > ul{
+		left: 14%;
+		top: 5%;
+	}
+	body > div > div.left.index{
+		height: 100vh;
+	}
+	div.wrapper{
+		flex-direction: column;
+	}
+	div.wrapper div.left{
+		width: 100%;
+		height: auto;
+	}
+	div.content{
+		width: 100%;
+	}
+	div.left > a{
+		margin: 10px;
+	}
+	.orderhist{
+		margin-top: 20px;
+		margin-bottom: 20px;
+	}
+	.infoorder{
+		right: 0;
+		flex-wrap: wrap;
+		margin-top: 60px;
+		margin-bottom: 40px;
+	}
+	.infoorder h2{
+		margin-bottom: 5px;
+    	margin-top: 10px;
+	}
+	div.content > a > p{
+		bottom: 10px;
+		margin-left: 10px;
+	}
+	body > div > div.left > a > img {
+    	width: 150px;
+	}
+	div.login{
+		width: 230px;
+		margin: 10px;
+	}
+	div.user{
+		width: 170px;
+	}
+	div.rights{
+		width: 100%;
+		height: auto;
+	}
+	div.login{
+		z-index: 2;
+		position: absolute;
+	}
+	.service h3{
+		margin-top: 20px;
+	}
+	div.wrapper div.left{
+		position: relative!important;
+	}
+	.uploadright{
+		width: 100%!important;
+		left: initial!important;
+	}
+	.uploadicons{
+		width: 360px;
+	}
+	div.user > h3{
+		font-size: 12px;
+	}
+	div.user > h3, div.user > span{
+		margin-left: 15px;
+	}
+	div.logregister, .buttons{
+		width: 390px;
+	}
+	.buttons a{
+		width: 180px;
+	}
+	.paata a.ptfb{
+		width: 215px;
+	}
+	.paata a.loginpt{
+		width: 160px;
+	}
+	.logregister form input[name="password"]{
+		width: 190px;
+	}
+	.logregister form input{
+		padding-left: 50px;
+	}
+	.scrollhist h2{
+		margin-top: 30%;
+	}
+	.scroll{
+		margin-left: 0;
+	}
+}
+@media (max-width: 384px){
+	div.content > ul {
+    	right: -9%;
+	}
+	div.upload > h2{
+		font-size: 15px;
+	}
+	div.innerupload h4{
+		font-size: 12px;
+	}
+	body > div > div.rights.index > div.fixedcontent > a:nth-child(2) > img{
+		width: 200px;
+	}
+	div.register a{
+		width: 340px;
+	}
+	ul.questions li input[type=checkbox] + h2{
+		font-size: 13px;
+	}
+	select#magazia{
+		width: 320px;
+		background-position: 9px center, 99% center;
+	}
+	.profbuttons button{
+		width: 170px;
+	}
+	body > div > div.rights > div.orderhist > label, .kurieri, div.novaposhta{
+		margin-left: 10px;
+	}
+	.editprof ul li input, .editprof ul li select{
+		width: 350px;
+	}
+	div.user{
+		display: none;
+	}
+	div.login{
+		width: 50px;
+	}
+	.infoorder h2{
+		font-size: 13px;
+	}
+	.service h3, .orderhist {
+    	margin-top: 10px;
+	}
+	a.pay{
+		margin-top: 10px;
+	}
+	.uploadicons{
+		width: 320px;
+	}
+	div.logregister, .buttons{
+		width: 360px;
+	}
+	.buttons a{
+		width: 170px;
+	}
+	.paata a.ptfb{
+		padding-left: 30px;
+	}
+	.paata a.loginpt{
+		width: 150px;
+	}
+	.paata a.ptfb{
+		width: 200px;
+	}
+	.passw{
+		flex-direction: column;
+	}
+	.logregister form input[name="password"]{
+		width: 100%;
+	}
+	.logregister form input[name="password"]{
+		background-position: 5%;
+	}
+}
+@media (max-width: 320px){
+	div.content > ul {
+	    right: -3%;
+	}
+	div.leftbg > ul li {
+    	margin-top: -3px;
+	}
+	div.uploadsist {
+	    flex-direction: column;
+	    margin: 5px 0px 0px 0px;
+	}
+	div.upload > h3, div.upload > h2{
+		font-size: 13px;
+	}
+	.uploadord{
+		margin-left: 10px;
+	}
+	div.register a {
+	    width: 300px;
+	}
+	ul.questions li input[type=checkbox] + h2 {
+	    font-size: 12px;
+	}
+	select#magazia{
+		width: 285px;
+		text-indent: 38px;
+		font-size: 12px;
+		background-position: 2px center, 99% center;
+	}
+	.lastorder{
+		margin-left: 10px;
+	}
+	.profbuttons button{
+		width: 150px;
+		font-size: 13px;
+	}
+	.editprof ul li input, .editprof ul li select{
+		width: 300px;
+	}
+	div.wrapper div.left{
+		height: auto;
+	}
+	a.pay{
+		margin-bottom: 10px;
+	}
+	.infoorder img{
+		margin-bottom: 30px;
+    	margin-top: 5px;
+	}
+	.infoorder{
+		margin-bottom: 20px;
+		margin-left: 10px;
+	}
+	a.back{
+		margin-top: 0;
+		margin-bottom: 20px;
+	}
+	.photossize h6{
+		font-size: 14px;
+	}
+	.ui-selectmenu-button.ui-button {
+    	width: 120px!important;
+	}
+	.photocontainer{
+		margin-left: initial;
+	}
+	.uploadicons {
+    	width: 280px;
+	}
+	div.logregister, .buttons{
+		width: 310px;
+	}
+	.buttons a{
+		width: 145px;
+		font-size: 17px;
+	}
+	.paata a.ptfb, .paata a.loginpt{
+		font-size: 13px;
+	}
+	body > div > div.rights.uploadright > div > div.uptitle > h2{
+		font-size: 23px;
+	}
+}
+/*ipad*/
+@media only screen and (max-device-width : 1024px) and (orientation : landscape){
+	.orderhist{
+		margin-top: 30%;
+	}
+}
+/*nexus7*/
+@media only screen and (max-device-width : 960px) and (orientation : landscape){
+	.indexwr{
+		flex-direction: column;
+	}
+	body > div > div.left.index, body > div > div.rights.index{
+		width: 100%;
+	}
+	/*body > div > div.left.index > div.content{
+		width: 100%;
+	}
+	body > div > div.left.index > div.content > ul{
+		left: 23%;
+	}
+	body > div > div.left.index > div.leftbg{
+		left: 50%;
+    	position: absolute;
+	}
+	div.rights {
+    	width: calc(100% - 470px);
+	}*/
+}
+/*iphone6plus*/
+@media only screen and (max-device-width : 736px) and (orientation : landscape){
+	div.left > a{
+		margin: 10px 0;
+	}
+	.infoorder{
+		margin-top: 50px;
+		flex-wrap: wrap;
+		right: -10px;
+	}
+	div.content > a > p{
+		font-size: 10px;
+		bottom: 5px;
+    	margin-left: 5px;
+	}
+	.infoorder h2{
+		font-size: 12px;
+		margin-bottom: 5px;
+    	margin-top: 5px;
+	}
+	a.pay{
+		margin-top: 5px;
+	}
+	.infoorder img{
+		margin-top: 5px;
+	}
+	div.leftbg > ul{
+		display: none;
+	}
+	div.wrapper div.left {
+    	width: 240px;
+	}
+	.ord {
+    	left: 24%!important;
+	}
+	body > div > div.left > a > img{
+		width: 200px;
+	}
+	div.rights {
+    	width: calc(100% - 330px);
+	}
+	.service h3{
+		margin-top: 10px;
+	}
+	.orderhist{
+		margin-top: 80px;
+	}
+	.orderhist h2{
+		font-size: 18px;
+	}
+	div.login{
+		margin: 10px;
+	}
+	.photocontainer{
+		margin-left: initial;
+	}
+}
+/*iphone6*/
+@media only screen and (max-device-width : 667px) and (orientation : landscape){
+	div.wrapper{
+		flex-direction: column;
+	}
+	div.wrapper div.left{
+		width: 100%;
+		height: auto;
+	}
+	div.rights{
+		height: auto;
+		width: 100%;
+	}
+	.orderhist{
+		margin: 20px 30px;
+	}
+	.infoorder{
+		margin-top: 60px;
+		margin-bottom: 40px;
+		right: -30px;
+	}
+	a.pay{
+		margin-top: 25px;
+	}
+	.infoorder img{
+		margin-top: 15px;
+	}
+	div.wrapper div.left{
+		position: relative!important;
+	}
+	.uploadright{
+		width: 100%!important;
+		left: 0!important;
+	}
+	.photocontainer{
+		justify-content: center;
+		padding: 0;
+	}
+}
